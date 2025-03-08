@@ -1,5 +1,6 @@
-👋 Hi, I’m Lettie Molapisi
-👀 Interest
+-👋 Hi, I’m Lettie Molapisi
+
+👀 Interested In:
 -  🌐Web Development,
 -  📱Mobile App Development(Flutter),
 -  📊 Data Analysis & Database Management
