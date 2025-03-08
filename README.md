@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @lettieMolapisi
-- 👀 I’m interested in web development, cyber security, mobile app development ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Lettie Molapisi
+👀 Interest
+-  🌐Web Development,
+-  📱Mobile App Development(Flutter),
+-  📊 Data Analysis & Database Management
+-  ☁️ Cloud Computing.
+  🌱 I’m currently learning - ☁️ Cloud Technologies (AWS, Azure)
+  💞️ I’m looking to collaborate on: 🖥️ Web and Mobile applications, 🏆Hackathons, & Tech Challenges
+- 📫 How to reach me - molapisilettie@gmail.com
 
 <!---
 lettieMolapisi/lettieMolapisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
