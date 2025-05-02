@@ -7,7 +7,7 @@
 -  📊 Data Analysis, Business Analysis & Database Administration
 -  ☁️ Cloud Computing.
 
-  🌱 I’m currently learning - ☁️ Cloud Technologies (AWS, Azure)
+  🌱 I’m currently learning - ☁️ Cloud Technologies (AWS, CyberSecurity)
   💞️ I’m looking to collaborate on: 🖥️ Web and Mobile applications, 🏆Hackathons, & Tech Challenges
 - 📫 How to reach me - molapisilettie@gmail.com
 
